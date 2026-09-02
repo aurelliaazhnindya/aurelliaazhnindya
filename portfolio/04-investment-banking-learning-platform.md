@@ -12,6 +12,8 @@ The learner needed a repeatable path from chapter questions to interview readine
 
 Learn question → answer by voice → evaluate assistance level and accuracy → update mastery → generate/review flashcards → answer rephrased question → complete mock interview → receive feedback
 
+![Learning and mastery workflow](assets/learning-mastery-workflow.svg)
+
 ## Representative requirements
 
 - Keep questions separated by source document.
@@ -27,6 +29,8 @@ Learn question → answer by voice → evaluate assistance level and accuracy �
 
 Documented missing questions, incorrect mastery classifications, lost history, empty flashcard/interview states, navigation limitations, and login failures. Each issue was tied to its user impact and expected behavior.
 
+![Requirements and QA traceability matrix](assets/learning-qa-matrix.svg)
+
 ## Deliverables
 
 - Product requirements and role definitions
@@ -38,4 +42,3 @@ Documented missing questions, incorrect mastery classifications, lost history, e
 ## Skills demonstrated
 
 Requirements elicitation · User flows · Business rules · Product analysis · QA documentation · Stakeholder translation
-

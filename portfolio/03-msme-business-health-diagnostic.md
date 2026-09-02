@@ -10,6 +10,8 @@ The business had activity and sales data but lacked a consistent view of cash, e
 
 ## Analytical workflow
 
+![MSME diagnostic workflow](assets/msme-diagnostic-workflow.svg)
+
 1. Structured sales, expenses, cash, receivables, payables, and inventory records.
 2. Standardized categories and identified missing or inconsistent entries.
 3. Built a basic health framework covering liquidity, profitability, working capital, and data quality.
@@ -27,6 +29,8 @@ The business had activity and sales data but lacked a consistent view of cash, e
 | Inventory | Stock movement/slow-moving items | Cash trapped in inventory |
 | Data quality | Uncategorized or missing transactions | Diagnostic confidence is reduced |
 
+![MSME business health dashboard](assets/msme-health-dashboard.svg)
+
 ## Pilot findings
 
 - Personal and business transactions needed clearer separation.
@@ -41,4 +45,3 @@ Extend the diagnostic into a responsible early-warning system with explainable r
 ## Skills demonstrated
 
 Financial analysis · Excel · Power BI · Data cleaning · KPI design · Early-warning framework · Stakeholder communication
-
