@@ -46,8 +46,8 @@ Currently, I support a U.S.-based home-performance business by analyzing field o
 ## Contact
 
 * GitHub: [aurelliaazhnindy](https://github.com/aurelliaazhnindy)
-* LinkedIn: *https://www.linkedin.com/in/aurelliaazhnindy/
-* *Email: *aurelliaazhnndy@gmail.com*
+* LinkedIn: https://www.linkedin.com/in/aurelliaazhnindy/
+* Email: *aurelliaazhnndy@gmail.com*
 
 > Portfolio case studies are anonymized and use non-confidential information. They demonstrate my analytical approach rather than disclose employer data.
 
