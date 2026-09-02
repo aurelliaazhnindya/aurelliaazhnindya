@@ -8,6 +8,8 @@ Designed a control and measurement framework for a field-service workflow. The c
 
 Written procedures alone do not show whether work was completed correctly. Management needed a practical way to connect field activity, training, compliance, and performance reporting inside future software.
 
+![Field operations workflow](assets/field-operations-workflow.svg)
+
 ## My approach
 
 1. Reviewed process documents and stakeholder discussions.
@@ -28,6 +30,8 @@ Written procedures alone do not show whether work was completed correctly. Manag
 | Work completion | Required evidence attached | Photos, readings, signature | Documentation completeness | Block closeout until complete |
 | Follow-up | Issue and coaching outcome tracked | Review/coaching record | Repeat-issue rate | Escalate recurring pattern |
 
+![Operational control point matrix](assets/control-point-overview.svg)
+
 ## KPI categories
 
 - **Compliance:** required-step completion, evidence completeness, training currency
@@ -35,6 +39,10 @@ Written procedures alone do not show whether work was completed correctly. Manag
 - **Productivity:** cycle time, jobs completed, stage delays
 - **Customer:** commitment adherence, escalation rate, satisfaction signals
 - **Coaching:** coaching assigned, completion time, post-coaching improvement
+
+The dashboard below is a portfolio mockup using fictional values. It illustrates how management could move from summary KPIs to the operational exceptions requiring attention.
+
+![Field operations dashboard mockup](assets/kpi-dashboard-mockup.svg)
 
 ## AI-assisted process concept
 
