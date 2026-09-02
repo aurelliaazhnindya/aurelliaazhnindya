@@ -10,6 +10,8 @@ How can the company gain mature customer-management and communication capabiliti
 
 ## Capability map
 
+![CRM capability architecture](assets/crm-capability-architecture.svg)
+
 | Domain | Representative capabilities | Strategic relevance |
 |---|---|---|
 | CRM | Contacts, opportunities, pipelines, task tracking | Shared customer and sales record |
@@ -28,9 +30,13 @@ How can the company gain mature customer-management and communication capabiliti
 - **Build later:** strategically differentiating capability that should remain proprietary
 - **Avoid/validate:** weak fit, excessive dependency, data risk, or unclear ROI
 
+![Capability disposition matrix](assets/crm-decision-matrix.svg)
+
 ## Key evaluation criteria
 
 Business fit · User experience · API coverage · Data ownership · Security · Scalability · White-label limits · Total cost · Migration risk · Vendor dependency
+
+![CRM and internal platform integration boundary](assets/crm-integration-boundary.svg)
 
 ## Deliverables
 
@@ -43,4 +49,3 @@ Business fit · User experience · API coverage · Data ownership · Security ·
 ## Skills demonstrated
 
 Software research · Capability mapping · Fit-gap analysis · Product strategy · Integration analysis · Executive communication
-
