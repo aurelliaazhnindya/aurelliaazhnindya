@@ -8,6 +8,8 @@ Designed a control and measurement framework for a field-service workflow. The c
 
 Written procedures alone do not show whether work was completed correctly. Management needed a practical way to connect field activity, training, compliance, and performance reporting inside future software.
 
+![Field operations workflow](assets/field-operations-workflow.svg)
+
 ## My approach
 
 1. Reviewed process documents and stakeholder discussions.
@@ -28,6 +30,8 @@ Written procedures alone do not show whether work was completed correctly. Manag
 | Work completion | Required evidence attached | Photos, readings, signature | Documentation completeness | Block closeout until complete |
 | Follow-up | Issue and coaching outcome tracked | Review/coaching record | Repeat-issue rate | Escalate recurring pattern |
 
+![Control-point overview](assets/control-point-overview.svg)
+
 ## KPI categories
 
 - **Compliance:** required-step completion, evidence completeness, training currency
@@ -36,9 +40,15 @@ Written procedures alone do not show whether work was completed correctly. Manag
 - **Customer:** commitment adherence, escalation rate, satisfaction signals
 - **Coaching:** coaching assigned, completion time, post-coaching improvement
 
+The following dashboard is a portfolio mockup using fictional values. It shows how management could move from summary KPIs to the operational exceptions requiring attention.
+
+![KPI dashboard concept](assets/kpi-dashboard-mockup.svg)
+
 ## AI-assisted process concept
 
 The system confirms consent, captures approved information, applies a management-approved rubric, displays supporting evidence and confidence, sends material findings for human review, assigns coaching, and monitors whether the issue occurs again.
+
+![AI review loop](assets/ai-review-loop.svg)
 
 ## Deliverables
 
@@ -51,4 +61,3 @@ The system confirms consent, captures approved information, applies a management
 ## Skills demonstrated
 
 Process mapping · Requirements analysis · KPI design · Operational controls · Dashboard planning · Responsible AI workflow design
-
