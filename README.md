@@ -30,13 +30,6 @@ Currently, I support a U.S.-based home-performance business by analyzing field o
 **Data:** Excel, SQL, Power BI, data cleaning, dashboard specifications  
 **Product \& operations:** User stories, acceptance criteria, workflow controls, AI-assisted process design, CRM analysis  
 **Communication:** Executive presentations, research reports, stakeholder discussions
-
-## Selected experience
-
-* **Business Analyst — Louisiana home-performance company:** Field-operations controls, training workflows, technology research, KPI and dashboard planning, acquisition and cost analysis
-* **Business Analyst — Jackson Ventures LLC:** Market and financial analysis, TAM assessment, competitive landscapes, business plans, M\&A support, and portfolio monitoring
-* **International Admissions Coordinator — UMY:** Cross-team process coordination, international partnerships, applicant operations, and workflow improvement
-
 ## Education \& recognition
 
 * B.Ec in International Program for Islamic Economics and Finance, Universitas Muhammadiyah Yogyakarta — GPA 3.69, graduated with distinction
