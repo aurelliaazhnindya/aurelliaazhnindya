@@ -30,11 +30,6 @@ Currently, I support a U.S.-based home-performance business by analyzing field o
 **Data:** Excel, SQL, Power BI, data cleaning, dashboard specifications  
 **Product \& operations:** User stories, acceptance criteria, workflow controls, AI-assisted process design, CRM analysis  
 **Communication:** Executive presentations, research reports, stakeholder discussions
-## Education \& recognition
-
-* B.Ec in International Program for Islamic Economics and Finance, Universitas Muhammadiyah Yogyakarta — GPA 3.69, graduated with distinction
-* Exchange study in Finance, Asia University, Taiwan
-* 2nd Place, OJK National Research Competition (2021); research on Islamic banking resilience
 
 ## Contact
 
